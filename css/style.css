@@ -1,0 +1,104 @@
+body {
+background-image: url(../images/BACKGROUND2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: LEFT;
+padding-top: 20px;
+padding-left: 20px;
+}
+
+.header {
+	padding: 5px;
+	background-size: cover;
+	padding-top: 20px;
+	padding-left: 10px;
+	margin: 10px;
+	text-align: center;
+	font-family: CASTELLAR;
+}
+
+.showcase {
+	padding: 2px;
+	text-align: center;
+	color: black;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-bottom: 20px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 2fr;
+}
+
+.showcase-left {
+	padding: 10px;
+	display: grid;
+	grid-gap: 1px;
+	grid-template-row: 1fr 1fr;
+	border-radius: 10px;
+}
+.showcase-left h2 {
+	font-family: Century Gothic;
+}
+
+
+.showcase-right {
+	padding: 10px;
+	display: grid;
+	grid-gap: 1px;
+	text-align: center;
+	margin-right: 30px;
+	font-family:  Century Gothic;
+    border-radius: 30px;
+}
+
+.showcase-right:hover {
+	
+	border-radius: 30px;
+}
+.showcase-right h2 {
+	font-family: Castellar;
+}
+
+h1 {
+font-family: CASTELLAR;
+font-size: 61px;
+color: GOLDENROD;
+text-align: CENTER;
+}
+
+h2 {
+text-align: CENTER;
+font-family: BatangChe;
+font-size: 35px;
+color: GOLDENROD;
+}
+
+p {
+font-family: Century Gothic;
+font-size: 14pt;
+text-align: CENTER;
+text-indent: 50px;
+color: GREY;
+}
+
+h3 {
+text-align: CENTER;
+font-family: BatangChe;
+font-size: 35px;
+color: GOLDENROD;
+}
+
+
+h4 {
+text-align: CENTER;
+font-family: BatangChe;
+font-size: 35px;
+color: GOLDENROD;
+}
+
+h5 {
+text-align: CENTER;
+font-family: BatangChe;
+font-size: 35px;
+color: GOLDENROD;
+}
